@@ -1,0 +1,45 @@
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.csproj.AssemblyReference.cache
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.AssemblyInfoInputs.cache
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.AssemblyInfo.cs
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.csproj.CoreCompileInputs.cache
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/bin/Debug/net6.0/Gioco
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/bin/Debug/net6.0/Gioco.deps.json
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/bin/Debug/net6.0/Gioco.runtimeconfig.json
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/bin/Debug/net6.0/Gioco.dll
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/bin/Debug/net6.0/Gioco.pdb
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.dll
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/obj/Debug/net6.0/refint/Gioco.dll
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.pdb
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.genruntimeconfig.cache
+/home/francesco/PycharmProjects/Gioco testuale/Gioco/Gioco/Gioco/obj/Debug/net6.0/ref/Gioco.dll
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/bin/Debug/net6.0/Gioco
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/bin/Debug/net6.0/Gioco.deps.json
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/bin/Debug/net6.0/Gioco.runtimeconfig.json
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/bin/Debug/net6.0/Gioco.dll
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/bin/Debug/net6.0/Gioco.pdb
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.csproj.AssemblyReference.cache
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.AssemblyInfoInputs.cache
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.AssemblyInfo.cs
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.csproj.CoreCompileInputs.cache
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.dll
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/obj/Debug/net6.0/refint/Gioco.dll
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.pdb
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/obj/Debug/net6.0/Gioco.genruntimeconfig.cache
+/home/francesco/PycharmProjects/Gioco/Gioco/Gioco/Gioco/obj/Debug/net6.0/ref/Gioco.dll
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/obj/Debug/net6.0/Gioco.csproj.AssemblyReference.cache
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/obj/Debug/net6.0/Gioco.GeneratedMSBuildEditorConfig.editorconfig
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/obj/Debug/net6.0/Gioco.AssemblyInfoInputs.cache
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/obj/Debug/net6.0/Gioco.AssemblyInfo.cs
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/obj/Debug/net6.0/Gioco.csproj.CoreCompileInputs.cache
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/obj/Debug/net6.0/Gioco.dll
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/obj/Debug/net6.0/refint/Gioco.dll
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/obj/Debug/net6.0/Gioco.pdb
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/bin/Debug/net6.0/Gioco
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/bin/Debug/net6.0/Gioco.deps.json
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/bin/Debug/net6.0/Gioco.runtimeconfig.json
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/bin/Debug/net6.0/Gioco.dll
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/bin/Debug/net6.0/Gioco.pdb
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/obj/Debug/net6.0/Gioco.genruntimeconfig.cache
+/home/francesco/PycharmProjects/c-/Solutions/Gioco/Gioco/obj/Debug/net6.0/ref/Gioco.dll
